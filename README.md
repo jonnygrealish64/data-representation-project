@@ -1,2 +1,2 @@
 # data-representation-project
-Data Representation Project 2021
+Data Representation Project @ GMIT 2021
